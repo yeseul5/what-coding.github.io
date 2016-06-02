@@ -1,2 +1,2 @@
 # what-coding.github.io
-HTML, CSS, JavaScript, jQuery - Study.
+HTML, CSS, JavaScript - Study.
